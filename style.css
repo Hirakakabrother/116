@@ -1,0 +1,51 @@
+body
+{
+    background-color:rgb(16, 117, 3);
+    text-decoration-color: #f55c03;
+    text-align: center;
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4
+{
+    color:whitesmoke;
+}
+.header_div
+{
+    background: rgb(20, 2, 117);
+    color:rgb(170, 235, 247)
+}
+
+.header_div p
+{
+    font-family: 'Roboto', sans-serif;
+    color:rgb(226, 138, 6);
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.main_div button
+{
+    font-family: 'Roboto', sans-serif;
+    color:rgb(4, 4, 90);
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 130px;
+    margin-top: 30px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:rgb(17, 207, 191);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:rgb(90, 51, 4);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(35, 0, 80);
+}
